@@ -1,4 +1,4 @@
-Complete the tasks from the material "Reference of tips and examples for C++Builder" from the section "System" - 1-6 and "Screen and desktop" - 1-4.
+Task: Complete the tasks from the material "Reference of tips and examples for C++Builder" from the section "System" - 1-6 and "Screen and desktop" - 1-4.
 
 Result:
 
